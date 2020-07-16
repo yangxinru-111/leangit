@@ -1,1 +1,2 @@
 my first git progrem
+it is a exercise to exercising myself githab  experience
