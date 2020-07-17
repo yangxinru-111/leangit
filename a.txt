@@ -1,3 +1,7 @@
 my first git progrem
 it is a exercise to exercising myself githab  experience
+<<<<<<< HEAD
 it is one time that i try to do it
+=======
+i am people A
+>>>>>>> 5b9b5b4a4f6be39f4c89786418d81a54c961cd5f
